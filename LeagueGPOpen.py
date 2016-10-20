@@ -7,7 +7,7 @@
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------]
 
 #CONSTANT DEFINITIONS---------------------------------
-LABELTEXT1 = "--Welcome to Alec's League Guide Script lil nigga--"
+LABELTEXT1 = "Welcome to Alec's League Guide Script"
 LABELTEXT2 = 'Enter your Champion Name'
 LABELTEXT3 = 'Enter your desired guide website \n( 1 for Lolking 2 for Mobafire )'
 #-----------------------------------------------------
