@@ -1,3 +1,3 @@
 # LittleScripts
-# LittleScrips
-# LittleScrips
+
+Just some random scrips in various languages
