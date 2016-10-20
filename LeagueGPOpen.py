@@ -23,7 +23,7 @@ def openUserWebsiteWithChampion():
     site = userWebsite.get()
     champ = champ.lower()
 #dictionary of all champions. k , v = champion name, champion release number
-    championDict = {'lux': '62', 'kassadin': '27', 'twisted-fate': '28','twistedfate': '28', 'zac': '112', 'skarner': '81', 'akali': '50', 'morgana': '16',
+    championDict = {'kled' : '132','taliyah': '131','ivern' : '133','lux': '62', 'kassadin': '27', 'twisted-fate': '28','twistedfate': '28', 'zac': '112', 'skarner': '81', 'akali': '50', 'morgana': '16',
                     'kogmaw': '54', 'ryze': '5', 'yasuo': '117', 'karthus': '21', 'zilean': '17', 'bard': '124', 'azir': '121',
                     'draven': '99', 'fizz': '87', 'cassiopeia': '66', 'ziggs': '92', 'taric': '32', 'fiddlesticks': '38', 'lulu': '95',
                     'illaoi': '128', 'riven': '83', 'velkoz': '118', 'rammus': '24', 'swain': '61', 'pantheon': '44', 'urgot': '58',
